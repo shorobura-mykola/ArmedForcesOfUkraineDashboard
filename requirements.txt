@@ -1,0 +1,11 @@
+Flask==2.1.2
+requests==2.28.1
+ptvsd==4.3.2 # Required for debugging.
+plotly
+dash
+dash_core_components
+dash_html_components
+pandas
+numpy
+dash_bootstrap_components
+datetime
