@@ -19,6 +19,7 @@ app.layout = html.Div([
     html.H3("Графік КІЛЬКОСТІ \"хороших\" ускіх",
             style={
               'text-align': 'center',
+              'font-size': 35,
               'marginTop': 15
             })
   ]),
@@ -26,6 +27,7 @@ app.layout = html.Div([
     html.H3("DEACTIVATED russia enemies BY ARMED FORCES OF UKRAINE",
             style={
               'text-align': 'center',
+              'font-size': 35,
               'marginTop': 15
             })
   ]),
@@ -34,6 +36,7 @@ app.layout = html.Div([
     html.H3("Наша русофобія недостатня!".upper(),
             style={
               'text-align': 'center',
+              'font-size': 35,
               'marginTop': 15
             })
   ]),
