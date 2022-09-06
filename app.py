@@ -16,7 +16,7 @@ app = Dash(__name__)
 app.title = 'Шо по русні?!'.upper()
 app.layout = html.Div([
   dbc.Row([
-    html.H3("Графік КІЛЬКОСТІ \"хороших\" ускіх",
+    html.H3("ГРАФІК КІЛЬКОСТІ \"хороших\" ускіх",
             style={
               'text-align': 'center',
               'font-size': 35,
