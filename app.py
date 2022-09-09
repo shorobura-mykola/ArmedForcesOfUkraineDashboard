@@ -24,7 +24,7 @@ app.layout = html.Div([
             })
   ]),
   dbc.Row([
-    html.H3("DEACTIVATED russia enemies BY ARMED FORCES OF UKRAINE",
+    html.H3("DEACTIVATED russia invaders BY ARMED FORCES OF UKRAINE",
             style={
               'text-align': 'center',
               'font-size': 35,
