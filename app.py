@@ -33,7 +33,7 @@ app.layout = html.Div([
   ]),
   dcc.Graph(id="graph", figure=fig),
   dbc.Row([
-    html.H3("Наша русофобія недостатня!".upper(),
+    html.H3("Слава ЗСУ!".upper(),
             style={
               'text-align': 'center',
               'font-size': 35,
